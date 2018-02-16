@@ -1,0 +1,33 @@
+body{
+    background-image: url('https://curiosoando.com/wp-content/uploads/2015/05/cielo_azul.jpg');
+    h1{
+        color: #00c853;
+    }
+    fieldset{
+        background-color: rgba(0, 0, 0, 0.4);
+        margin: 1em;
+    }
+    #modal1, #modal2{
+        background: linear-gradient(#b3e5fc, #ffb74d);
+        max-height: 100%;
+        width: 100%;
+        img{
+            margin: 1em;
+        }
+    }
+    a{
+        @include button();
+    }
+    #modal2{
+        p{
+            span{
+                margin: 1em;
+            }
+        }
+        img{
+            width: 1.5em;
+            margin: 0.5em;
+            margin-left: 1em;
+        }
+    }
+}
