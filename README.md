@@ -1,1 +1,1 @@
-# Trabajo no funciona en github por porblemas con la api de google
+# Trabajo no funciona en github por problemas con la api de google
