@@ -1,12 +1,16 @@
 # App Weather
 
+App Weather es una aplicación que usa el autocompletado de ubicaciones que nos entrega la API de Google places y muestra predicciones del clima gracias a la API de DarkSky.
+
+<img src='https://user-images.githubusercontent.com/32299783/37910742-a774dcd0-30e4-11e8-9343-9a43eb315e3c.jpg'>
+
+## Desarrollado en [Laboratoria](http://www.laboratoria.la/)
+
+## Aspectos Técnicos
+
 <img src='https://img.shields.io/badge/Version-1.0.0-blue.svg'>
 <img src='https://img.shields.io/badge/API-Google%20Places-yellow.svg'>
 <img src='https://img.shields.io/badge/API-DarkSky-blue.svg'>
-
-
-App Weather es una aplicación que usa el autocompletado de ubicaciones que nos entrega la API de Google places y muestra predicciones del clima gracias a la API de DarkSky.
-
 
 ## Uso de la Aplicación
 
