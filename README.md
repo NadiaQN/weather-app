@@ -4,7 +4,9 @@ App Weather es una aplicación que usa el autocompletado de ubicaciones que nos 
 
 ![](https://user-images.githubusercontent.com/32299783/37910742-a774dcd0-30e4-11e8-9343-9a43eb315e3c.jpg)
 
-## Desarrollado en [Laboratoria](http://www.laboratoria.la/)
+## Desarrollado para 
+
+[Laboratoria](http://www.laboratoria.la/)
 
 ## Aspectos Técnicos
 
